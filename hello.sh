@@ -5,4 +5,6 @@
 # use the function
 # hello user
 
+echo "this should do something"
+
 exit 1
